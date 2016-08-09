@@ -1,0 +1,172 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body { 
+  font-family: 'Raleway', sans-serif;
+  color: #00000;
+  background-color: #D3d3d3;
+}
+
+/* STRUCTURE */
+
+#pagewrap {
+	padding: 5px;
+	width: 960px;
+	margin: 20px auto;
+}
+header {
+	height: 100px;
+	padding: 0 15px;
+	text-align: center;
+	color: #005D56;
+	font-size: 2.0em;
+}
+#content {
+	width: 290px;
+	float: left;
+	padding: 5px 15px;
+}
+
+ #middle {
+	width: 280px; /* Account for margins + border values, vorher 294px */
+ 	float: left;
+	padding: 5px 15px;
+	margin: 0px 5px 5px 5px;
+} 
+
+#sidebar {
+	width: 270px;
+	padding: 5px 15px;
+	float: left;
+}
+footer {
+	clear: both;
+	padding: 0 15px;
+}
+
+/************************************************************************************
+MEDIA QUERIES
+*************************************************************************************/
+/* for 980px or less */
+@media screen and (max-width: 980px) {
+	
+	#pagewrap {
+		width: 94%;
+	}
+	#content {
+		width: 41%;
+		padding: 1% 4%;
+	}
+	#middle {
+		width: 41%;
+		padding: 1% 4%;
+		margin: 0px 0px 5px 5px;
+		float: right;
+	}
+
+	#sidebar {
+		clear: both;
+		padding: 1% 4%;
+		width: auto;
+		float: none;
+	}
+
+	header, footer {
+		padding: 1% 4%;
+	}
+}
+
+/* for 700px or less */
+@media screen and (max-width: 600px) {
+
+	#content {
+		width: auto;
+		float: none;
+	}
+	
+	#middle {
+		width: auto;
+		float: none;
+		margin-left: 0px;
+	}
+	
+	#sidebar {
+		width: auto;
+		float: none;
+	}
+
+}
+
+/* for 480px or less */
+@media screen and (max-width: 480px) {
+
+	header {
+		height: auto;
+	}
+	h1 {
+		font-size: 2em;
+	}
+	#sidebar {
+		display: none;
+	}
+
+}
+
+
+#content {
+	background: #D3d3d3;
+}
+#sidebar {
+	background: #D3d3d3;	
+}
+#middle {
+	background: #D3d3d3;
+}
+header, #content, #middle, #sidebar {
+	margin-bottom: 5px;
+}
+
+footer {
+	border: solid 1px #005D56;
+}
+
+#middle {
+    border-radius: 25px;
+    border: 1px solid #005D56;
+    padding: 20px;
+ /*   width: 200px;
+   height: 150px;*/
+}
+
+/* style for lists */
+
+.list-type4{
+width:280px;
+margin:0 auto;
+}
+
+.list-type4 ol{
+counter-reset: li;
+list-style: none;
+*list-style: decimal;
+font-size: 15px;
+font-family: 'Raleway', sans-serif;
+padding: 0;
+margin-bottom: 4em;
+}
+.list-type4 a{
+position: relative;
+display: block;
+padding: .4em .4em .4em 2em;
+*padding: .4em;
+margin: .5em 0;
+background: #005D56;
+color: white;
+text-decoration: none;
+box-shadow:inset 0.5em 0 black;
+-webkit-transition: box-shadow 1s; /* For Safari 3.1 to 6.0 */
+transition: box-shadow 1s;
+}
+
+.list-type4 a:hover{
+box-shadow:inset 2em 0 black;
+}
