@@ -1,66 +1,33 @@
-<!DOCTYPE html>
-<html >
-  <head>
-    <meta charset="UTF-8">
-    <title>Publications</title>
-    
-    
-    
-    
-        <link rel="stylesheet" href="css/style.css">
+{% extends "base.html" %}
 
-    
-    
-    
-  </head>
+{% block main_content %}
 
-  <body>
-
-    <div id="pagewrap">
-
-	<header>
-		<h1>Publications</h1>
-	</header>
-		
-	<section id="content">
-		<h2>Factors</h2>
-		<ul>
-			<li>Providing information and outcomes</li>
-			<li>Dissemination of data</li>
-			<li>Dissemination of knowledge (subject-specific and DH-broad)</li>
-			<li>Interoperability with digital resources</li>
-			<li>Workflow management</li>
-			<li>Measures for long-term use & storage</li>
-			<li>Multilingualism</li>
-			</ul>
-	</section>
-	
-	<section id="middle">
-		
-<h2>Publications</h2>
-
-	</section>
-
-	<aside id="sidebar">
-		<h2>Criteria</h2>
-		<ul>
-			<li>Usage of provided results</li>
-			<li>Scientometric success (indicators)</li>
-			<li>Scientific publications</li>
-			<li>Scientific theses</li>
- </ul>
-	</aside>
-	
-	<footer>
-		<h4></h4>
-		<p><a href="index.html">Back to Overview</a></p>
-	</footer>
-
+<div id="content" class="primary-area">
+  <aside id="sidebar">
+    <h2>Factors</h2>
+    <ul>
+      <li>Providing information and outcomes</li>
+      <li>Dissemination of data</li>
+      <li>Dissemination of knowledge (subject-specific and DH-broad)</li>
+      <li>Interoperability with digital resources</li>
+      <li>Workflow management</li>
+      <li>Measures for long-term use & storage</li>
+      <li>Multilingualism</li>
+    </ul>
+  </aside>
+  <section id="middle">
+    <h2>Publications</h2>
+    <p>
+    </p>
+  </section>
+  <aside id="sidebar">
+    <h2>Criteria</h2>
+    <ul>
+      <li>Usage of provided results</li>
+      <li>Scientometric success (indicators)</li>
+      <li>Scientific publications</li>
+      <li>Scientific theses</li>
+    </ul>
+  </aside>
 </div>
-    
-    
-    
-    
-    
-  </body>
-</html>
+{% endblock %}
