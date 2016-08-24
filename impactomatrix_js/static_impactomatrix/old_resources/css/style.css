@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+/* @import url(http://fonts.googleapis.com/css?family=Open+Sans); */
 
 body { 
     font-family: 'Raleway', sans-serif;
@@ -19,13 +19,6 @@ header {
     text-align: center;
     color: #005D56;
     font-size: 2.0em;
-}
-#content {
-    /* 
-     * width: 290px;
-     * float: left;
-     */
-    /* padding: 5px 15px; */
 }
 
 #middle {
@@ -114,21 +107,13 @@ MEDIA QUERIES
 
 }
 
-
-/* 
- * #content {
- * 	background: #D3d3d3;
- * }
- */
 #sidebar {
-    /* background: #D3d3d3;	 */
     border-radius: 25px;
-    border: 1px solid #005D56;
+    border: 2px solid #484f7d;
     padding: 20px;
 
 }
 #middle {
-    /* background: #D3d3d3;x */
 }
 header, #content, #middle, #sidebar {
     margin-bottom: 5px;
@@ -140,8 +125,11 @@ footer {
 
 #middle {
     border-radius: 25px;
-    border: 1px solid #005D56;
-    padding: 20px;
+    border: 2px solid #484f7d;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-left: 0px;
+    margin: 0px 55px 20px 55px;
 /*   width: 200px;
    height: 150px;*/
 }
@@ -179,5 +167,5 @@ footer {
 
 .list-type4 a:hover{
     box-shadow:inset 2em 0 black;
-       color: white;
+    color: white;
 }
