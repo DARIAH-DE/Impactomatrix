@@ -4,11 +4,33 @@ current_dir = os.path.dirname(os.path.realpath(__file__))
 
 
 # REQUIRED: Which templates do you want to generate? (Use relative paths here!)
-# Use strings (with single or double quotes), and separe each template in a line terminated with a comma. Such as examples below.
+# Use strings (with single or double quotes), and separate each template in a line terminated with a comma. Such as examples below.
 OUTPUT_TEMPLATES = [
     'index.html',
     'external-impact.html',
-    'innovation.html'
+    'innovation.html',
+    'coherence.html',
+    'collaboration.html',
+    'communication.html',
+    'competitiveness.html',
+    'data-security.html',
+    'dissemination.html',
+    'education.html',
+    'effectivity.html',
+    'efficiency.html',
+    'external-impact.html',
+    'funding-perspective.html',
+    'index.html',
+    'innovation.html',
+    'integration.html',
+    'publications.html',
+    'relevance.html',
+    'reputation.html',
+    'sustainability.html',
+    'transfer-expertise.html',
+    'transfer-knowledge.html',
+    'transparency.html',
+    'usage.html'
 ]
 
 # OPTIONAL: Where are the skeleton (.jinja) templates? - Defaults to 'jinja_templates' folder inside this project
