@@ -1,3 +1,6 @@
+# leaving out the generated static files
+impactomatrix_js/static_impactomatrix/*.html
+
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
