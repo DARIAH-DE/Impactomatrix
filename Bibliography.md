@@ -1,10 +1,8 @@
-p.p1 {margin: 0.0px 0.0px 0.0px 36.0px; text-indent: -36.0px; font: 12.0px Helvetica}
-
 Ahmad, S. S. (2012). Performance Indicators for the Advancement of Malaysian Research with Focus on Social Science and Humanities. _Aice-Bs 2012 Cairo (Asia Pacific International Conference on Environment-Behaviour Studies)_, _68_, 16–28. [https://doi.org/10.1016/j.sbspro.2012.12.203] (https://doi.org/10.1016/j.sbspro.2012.12.203)
 
 Bastow, S., Dunleavy, P., & Tinkler, J. (2014). The Impact of the Social Sciences - How Academics and tehir Reaearch Make a Difference. Retrieved December 1, 2015, from [https://uk.sagepub.com/en-gb/eur/the-impact-of-the-social-sciences/book241492] (https://uk.sagepub.com/en-gb/eur/the-impact-of-the-social-sciences/book241492)
 
-Beagrie, N., & Houghton, J. (2014). _The Value and Impact of Data Sharing and Curation._ Retrieved from çhttp://repository.jisc.ac.uk/5568/1/iDF308_-_Digital_Infrastructure_Directions_Report,_Jan14_v1-04.pdf] (http://repository.jisc.ac.uk/5568/1/iDF308_-_Digital_Infrastructure_Directions_Report,_Jan14_v1-04.pdf)
+Beagrie, N., & Houghton, J. (2014). _The Value and Impact of Data Sharing and Curation._ Retrieved from [http://repository.jisc.ac.uk/5568/1/iDF308_-_Digital_Infrastructure_Directions_Report,_Jan14_v1-04.pdf] (http://repository.jisc.ac.uk/5568/1/iDF308_-_Digital_Infrastructure_Directions_Report,_Jan14_v1-04.pdf)
 
 Bellini, F., Navarra, M., Passani, A., Debicki, M., & Benedict, J. (2013). _ERINA+D3.1 -e-Infrastructures and Projects Assessment-final version_.
 
