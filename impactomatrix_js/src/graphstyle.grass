@@ -43,9 +43,11 @@ node.Criterion {
 
 relationship.AFFECTS {
   shaft-width: 25px;
+  color: #6DCE9E;
 }
 
 relationship.RATES {
   shaft-width: 25px;
+  color: #FFD86E;
 }
 
