@@ -21,7 +21,7 @@ node.Impact {
   color: #FB95AF;
   border-color: #E0849B;
   text-color-internal: #FFFFFF;
-  caption: '{name_de}';
+  caption: '{name}';
   diameter: 80px;
 }
 
@@ -37,17 +37,17 @@ node.Criterion {
   color: #FFD86E;
   border-color: #EDBA39;
   text-color-internal: #604A0E;
-  caption: '{name_de}';
+  caption: '{name}';
   diameter: 65px;
 }
 
 relationship.AFFECTS {
-  shaft-width: 25px;
+  shaft-width: 15px;
   color: #6DCE9E;
 }
 
 relationship.RATES {
-  shaft-width: 25px;
+  shaft-width: 15px;
   color: #FFD86E;
 }
 
