@@ -6,7 +6,7 @@ __author__ = "kthoden@mpiwg-berlin.mpg.de"
 
 import json
 
-JSON_DATA = "impactomatrix.json"
+JSON_DATA = "../data/impactomatrix.json"
 
 IMP_TEMPLATE = "(%s:Impact {slug: '%s', name: '%s', name_de: '%s', description: '%s'})"
 FACTOR_TEMPLATE = "(%s:Factor {slug: '%s', name: '%s', name_de: '%s'})"
