@@ -7,10 +7,10 @@ read more about it on
 https://dariah-de.github.io/Impactomatrix/index.html[the
 representation on Github]. Development is funded by https://www.de.dariah.eu[DARIAH-DE].
 
-This document is an attempt at displaying the data in a Neo4j-way.
+This document is an attempt at displaying the data in a Neo4j-way. You can see an interactive version of this gist at http://portal.graphgist.org/graph_gists/5061080d-0aaf-4579-8f7c-277461159c1c[Graphgists]
 
 == Data input
-The data is stored as json. The conversion to Cypher is done via a Python script.
+The data is stored as https://github.com/DARIAH-DE/Impactomatrix/blob/master/impactomatrix_js/data/impactomatrix.json[json]. The conversion to Cypher is done via a https://github.com/DARIAH-DE/Impactomatrix/blob/master/impactomatrix_js/src/impactomatrix.py[Python script].
 
 [source, cypher]
 ----
