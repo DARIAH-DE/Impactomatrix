@@ -14,15 +14,15 @@ Buddenbohm, S., Enke, H., Hoffmann, M., Klar, J., Neuroth, H., & Schwiegelshohn,
 
 European Commission. (2016). _Horizon 2020 Work Programme 2016-2017_. Retrieved from [ec.europa.eu/research/participants/data/ref/h2020/wp/2016_2017/main/h2020-wp1617-infrastructures_en.pdf](http://ec.europa.eu/research/participants/data/ref/h2020/wp/2016_2017/main/h2020-wp1617-infrastructures_en.pdf)
 
-Fandrych, C., Frick, E., Hedeland, H., Iliash, A., Jettka, D., Meißner, C., … Weigert, K. (2016, bis 12. März). _Wer bist Du, Nutzer?_ Leipzig. Retrieved from [www.dhd2016.de/abstracts/vortr%C3%A4ge-053.html](http://www.dhd2016.de/abstracts/vortr%C3%A4ge-053.html)
+Fandrych, C., Frick, E., Hedeland, H., Iliash, A., Jettka, D., Meißner, C., Schmidt, T., Wallner, F., Weigert, K. (2016). _Wer bist Du, Nutzer?_ Leipzig. Retrieved from [www.dhd2016.de/abstracts/vortr%C3%A4ge-053.html](http://www.dhd2016.de/abstracts/vortr%C3%A4ge-053.html)
 
-Gätzke, N., Mandl, T., & Strötgen, R. (2014). Akzeptanzanalyse der virtuellen Forschungsumgebung von Edumeres.net. _Information - Wissenschaft & Praxis,__65_(4–5), 215–304. [DOI: 10.1515/iwp-2014-0045](https://doi.org/doi:10.1515/iwp-2014-0045)
+Gätzke, N., Mandl, T., & Strötgen, R. (2014). Akzeptanzanalyse der virtuellen Forschungsumgebung von edumeres.net. _Information - Wissenschaft & Praxis, 65_(4–5), 215–304. [DOI: 10.1515/iwp-2014-0045](https://doi.org/doi:10.1515/iwp-2014-0045)
 
-Garfield, Eugene (2006). The history and meaning of the journal impact factor. _Jama_, _295_(1), 90–93. [DOI: 10.1001/jama.295.1.90](https://doi.org/10.1001/jama.295.1.90)
+Garfield, E. (2006). The history and meaning of the journal impact factor. _Jama_, _295_(1), 90–93. [DOI: 10.1001/jama.295.1.90](https://doi.org/10.1001/jama.295.1.90)
 
-Garfield, Eugene (1955). Citation indexes to science: a new dimension in documentation through association of ideas. _Science_, _122_(3159), 108–111. [DOI: 10.1126/science.122.3159.108](https://doi.org/10.1126/science.122.3159.108)
+Garfield, E. (1955). Citation indexes to science: a new dimension in documentation through association of ideas. _Science_, _122_(3159), 108–111. [DOI: 10.1126/science.122.3159.108](https://doi.org/10.1126/science.122.3159.108)
 
-Garfield, Eugene & Sher, Irving H. (1963). _Genetics Citation Index_. Philadelphia, PA.: Institute for Scientific Information. Retrieved from [www.garfield.library.upenn .edu/essays/v7p515y1984.pdf](http://www.garfield.library.upenn.edu/essays/v7p515y1984.pdf)
+Garfield, E. & Sher, I. H. (1963). _Genetics Citation Index_. Philadelphia, PA.: Institute for Scientific Information. Retrieved from [www.garfield.library.upenn .edu/essays/v7p515y1984.pdf](http://www.garfield.library.upenn.edu/essays/v7p515y1984.pdf)
 
 Gnadt, T., & Stiller, J. (2015). _Konzept Report Erfolgskriterien (R 1.3.2)_. DARIAH-DE. Retrieved from [wiki.de.dariah.eu/download/attachments/14651583/R%201.3.2%20-%20Konzept%20Report%20Erfolgskriterien.pdf](https://wiki.de.dariah.eu/download/attachments/14651583/R%201.3.2%20-%20Konzept%20Report%20Erfolgskriterien.pdf?version=1&modificationDate=1427895594871&api=v2)
 
@@ -76,4 +76,4 @@ Warwick, C., Terras, M., Huntington, P., Pappa, N., & Galina, I. (2006). _The LA
 
 Wilsdon, J., Allen, L., Belfiore, E., Campbell, P., Curry, S., Hill, S., … Johnson, B. (2015). _The Metric Tide. Report of the Independent review of the Role of Metrics in research Assessment and Management._ Retrieved from [www.hefce.ac.uk/media/HEFCE,2014/Content/Pubs/Independentresearch/2015/The,Metric,Tide/2015_metric_tide.pdf](http://www.hefce.ac.uk/media/HEFCE,2014/Content/Pubs/Independentresearch/2015/The,Metric,Tide/2015_metric_tide.pdf)
 
-Wynne (Ed.), M. (2011). _Longitudinal Study of Impacts_. Retrieved from [www-sk.let.uu.nl/u/D3C-2.1.pdf](http://www-sk.let.uu.nl/u/D3C-2.1.pdf)
+Wynne, M. (Ed.) (2011). _Longitudinal Study of Impacts_. Retrieved from [www-sk.let.uu.nl/u/D3C-2.1.pdf](http://www-sk.let.uu.nl/u/D3C-2.1.pdf)
