@@ -30,7 +30,7 @@ Gnadt, T., Stiller, J., & Höckendorff, M. (2014). _Umfrage zu Erfolgskriterien 
 
 Gnadt, T., Stiller, J., Thoden, K., & Schmitt, V. (2016). _Finale Version Erfolgskriterien (R 1.3.3)_ (No. 1.3.3). DARIAH-DE. Retrieved from [https://wiki.de.dariah.eu/download/attachments/14651583/R133_Erfolgskriterien_Konsortium.pdf](https://wiki.de.dariah.eu/download/attachments/14651583/R133_Erfolgskriterien_Konsortium.pdf)
 
-Gnadt, T., Schmitt, V. E., Stiller, J., Thoden, K. (2017). _Faktoren und Kriterien für den Impact von DH-Tools und Infrastrukturen_. DARIAH-DE Working Papers Nr. 21. Göttingen: DARIAH-DE [http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2017-1-72](http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2017-1-7)
+Gnadt, T., Schmitt, V. E., Stiller, J., Thoden, K. (2017). _Faktoren und Kriterien für den Impact von DH-Tools und Infrastrukturen_. DARIAH-DE Working Papers Nr. 21. Göttingen: DARIAH-DE [urn:nbn:de:gbv:7-dariah-2017-1-7](http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2017-1-7)
 
 Juola, P. (2006). Killer applications in Digital Humanities. _Oxford Journals_, _Literary_ & _Linguistic Computing_(Volume 23 Issue 1), 73–83. [https://doi.org/10.1093/llc/fqm042](https://doi.org/10.1093/llc/fqm042)
 
