@@ -24,17 +24,19 @@ Garfield, Eugene (1955). Citation indexes to science: a new dimension in documen
 
 Garfield, Eugene & Sher, Irving H. (1963). _Genetics Citation Index_. Philadelphia, PA.: Institute for Scientific Information. Retrieved from [http://www.garfield.library.upenn .edu/essays/v7p515y1984.pdf] (http://www.garfield.library.upenn .edu/essays/v7p515y1984.pdf)
 
-Gnadt, T., & Stiller, J. (2015). _Konzept Report Erfolgskriterien (R 1.3.2)_. DARIAH-DE. Retrieved from [https://wiki.de.dariah.eu/download/attachments/14651583/R%201.3.2%20-%20Konzept%20Report%20Erfolgskriterien.pdf?version=1&modificationDate=1427895594871&api=v2] (https://wiki.de.dariah.eu/download/attachments/14651583/R%201.3.2%20-%20Konzept%20Report%20Erfolgskriterien.pdf?version=1&modificationDate=1427895594871&api=v2)
+Gnadt, T., & Stiller, J. (2015). _Konzept Report Erfolgskriterien (R 1.3.2)_. DARIAH-DE. Retrieved from [https://wiki.de.dariah.eu/download/attachments/14651583/R%201.3.2%20-%20Konzept%20Report%20Erfolgskriterien.pdf?version=1&modificationDate=1427895594871&api=v2](https://wiki.de.dariah.eu/download/attachments/14651583/R%201.3.2%20-%20Konzept%20Report%20Erfolgskriterien.pdf?version=1&modificationDate=1427895594871&api=v2)
 
-Gnadt, T., Stiller, J., & Höckendorff, M. (2014). _Umfrage zu Erfolgskriterien (DARIAH2 R 1.3.1)_ (No. 1.3.1). DARIAH-DE. Retrieved from [https://wiki.de.dariah.eu/download/attachments/14651583/R%201.3.1%20-%20Erhebung%20einer%20Nutzerbefragung%20zu%20Nutzererwartungen%20und%20-kriterien.pdf] (https://wiki.de.dariah.eu/download/attachments/14651583/R%201.3.1%20-%20Erhebung%20einer%20Nutzerbefragung%20zu%20Nutzererwartungen%20und%20-kriterien.pdf)
+Gnadt, T., Stiller, J., & Höckendorff, M. (2014). _Umfrage zu Erfolgskriterien (DARIAH2 R 1.3.1)_ (No. 1.3.1). DARIAH-DE. Retrieved from [https://wiki.de.dariah.eu/download/attachments/14651583/R%201.3.1%20-%20Erhebung%20einer%20Nutzerbefragung%20zu%20Nutzererwartungen%20und%20-kriterien.pdf](https://wiki.de.dariah.eu/download/attachments/14651583/R%201.3.1%20-%20Erhebung%20einer%20Nutzerbefragung%20zu%20Nutzererwartungen%20und%20-kriterien.pdf)
 
-Gnadt, T., Stiller, J., Thoden, K., & Schmitt, V. (2016). _Finale Version Erfolgskriterien (R 1.3.3)_ (No. 1.3.3). DARIAH-DE. Retrieved from [https://wiki.de.dariah.eu/download/attachments/14651583/R133_Erfolgskriterien_Konsortium.pdf] (https://wiki.de.dariah.eu/download/attachments/14651583/R133_Erfolgskriterien_Konsortium.pdf)
+Gnadt, T., Stiller, J., Thoden, K., & Schmitt, V. (2016). _Finale Version Erfolgskriterien (R 1.3.3)_ (No. 1.3.3). DARIAH-DE. Retrieved from [https://wiki.de.dariah.eu/download/attachments/14651583/R133_Erfolgskriterien_Konsortium.pdf](https://wiki.de.dariah.eu/download/attachments/14651583/R133_Erfolgskriterien_Konsortium.pdf)
 
-Juola, P. (2006). Killer applications in Digital Humanities. _Oxford Journals_, _Literary_ & _Linguistic Computing_(Volume 23 Issue 1), 73–83. [https://doi.org/10.1093/llc/fqm042] (https://doi.org/10.1093/llc/fqm042)
+Gnadt, T., Schmitt, V. E., Stiller, J., Thoden, K. (2017). _Faktoren und Kriterien für den Impact von DH-Tools und Infrastrukturen_. DARIAH-DE Working Papers Nr. 21. Göttingen: DARIAH-DE [http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2017-1-72](http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2017-1-7)
+
+Juola, P. (2006). Killer applications in Digital Humanities. _Oxford Journals_, _Literary_ & _Linguistic Computing_(Volume 23 Issue 1), 73–83. [https://doi.org/10.1093/llc/fqm042](https://doi.org/10.1093/llc/fqm042)
 
 Khandker, S. (2010). _Handbook on impact evaluation quantitative methods and practices_. Washington, D.C. : World Bank.
 
-LSE Public Policy Group. (2011). _Maximizing the impacts of your research: a handbook for social scientists_. Retrieved from [http://www.lse.ac.uk/government/research/resgroups/LSEPublicPolicy/Docs/LSE_Impact_Handbook_April_2011.pdf] (http://www.lse.ac.uk/government/research/resgroups/LSEPublicPolicy/Docs/LSE_Impact_Handbook_April_2011.pdf)
+LSE Public Policy Group. (2011). _Maximizing the impacts of your research: a handbook for social scientists_. Retrieved from [http://www.lse.ac.uk/government/research/resgroups/LSEPublicPolicy/Docs/LSE_Impact_Handbook_April_2011.pdf](http://www.lse.ac.uk/government/research/resgroups/LSEPublicPolicy/Docs/LSE_Impact_Handbook_April_2011.pdf)
 
 Meagher, L. (2013). _Research Impact on Practice: Case Study Analysis_. Retrieved from [http://www.esrc.ac.uk/files/research/evaluation-and-impact/research-impact-on-practice/] (http://www.esrc.ac.uk/files/research/evaluation-and-impact/research-impact-on-practice/)
 
