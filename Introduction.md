@@ -6,6 +6,6 @@
 
 Die Impactomatrix ist eine interaktive Übersicht über das Zusammenspiel von Faktoren und Kriterien, die zur Messung von Impact von DH-Projekten und virtuellen Infrastrukturen benutzt werden kann.
 
-![Übersicht](uebersicht.png)
+![Übersicht](images/uebersicht.png)
 
 [Zur Impactomatrix](https://dariah-de.github.io/Impactomatrix)
