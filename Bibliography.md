@@ -32,7 +32,7 @@ Gnadt, T., Stiller, J., Thoden, K., & Schmitt, V. (2016). _Finale Version Erfolg
 
 Gnadt, T., Schmitt, V. E., Stiller, J., Thoden, K. (2017). _Faktoren und Kriterien für den Impact von DH-Tools und Infrastrukturen_. DARIAH-DE Working Papers Nr. 21. Göttingen: DARIAH-DE [URN: urn:nbn:de:gbv:7-dariah-2017-1-7](http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2017-1-7)
 
-Juola, P. (2006). Killer applications in Digital Humanities. _Oxford Journals_, _Literary_ & _Linguistic Computing_(Volume 23 Issue 1), 73–83. [DOI: 10.1093/llc/fqm042](https://doi.org/10.1093/llc/fqm042)
+Juola, P. (2008). Killer applications in Digital Humanities. _Oxford Journals_, _Literary_ & _Linguistic Computing_(Volume 23 Issue 1), 73–83. [DOI: 10.1093/llc/fqm042](https://doi.org/10.1093/llc/fqm042)
 
 Khandker, S. (2010). _Handbook on impact evaluation quantitative methods and practices_. Washington, D.C. : World Bank.
 
