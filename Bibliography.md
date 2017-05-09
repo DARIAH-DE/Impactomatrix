@@ -4,7 +4,7 @@ Bastow, S., Dunleavy, P., & Tinkler, J. (2014). The Impact of the Social Science
 
 Beagrie, N., & Houghton, J. (2014). _The Value and Impact of Data Sharing and Curation._ Retrieved from [repository.jisc.ac.uk/5568/1/iDF308_-_Digital_Infrastructure_Directions_Report,_Jan14_v1-04.pdf](http://repository.jisc.ac.uk/5568/1/iDF308_-_Digital_Infrastructure_Directions_Report,_Jan14_v1-04.pdf)
 
-Bellini, F., Navarra, M., Passani, A., Debicki, M., & Benedict, J. (2013). _ERINA+D3.1 -e-Infrastructures and Projects Assessment-final version_.
+Bellini, F., Navarra, M., Passani, A., Debicki, M., & Benedict, J. (2013). _ERINA+D3.1 -e-Infrastructures and Projects Assessment-final version_. [Local copy](articles/bellinietal_erinaplus_d31.pdf)
 
 Bosman, J., & Kramer, B. (2015). 101 Innovations in Scholarly Communication: How researchers are getting to grip with the myriad of new tools. Retrieved from: [blogs.lse.ac.uk/impactofsocialsciences/2015/11/11/101-innovations-in-scholarly-communication/](http://blogs.lse.ac.uk/impactofsocialsciences/2015/11/11/101-innovations-in-scholarly-communication/)
 
