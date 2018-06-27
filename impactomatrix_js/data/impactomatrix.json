@@ -65,7 +65,7 @@
         {"type": "factor","name": "Meaningful & significant name","name_de": "Eindeutiger, aussagekräftiger Name","slug": "f19"},
         {"type": "factor","name": "Dissemination of knowledge (subject-specific and DH-broad)","name_de": "Erkenntnis-Dissemination (fachspezifisch und DH-weit)","slug": "f20"},
         {"type": "factor","name": "Recognition value","name_de": "Erkennungswert","slug": "f21"},
-        {"type": "factor","name": "Learnabilitiy","name_de": "Erlernbarkeit","slug": "f22"},
+        {"type": "factor","name": "Learnability","name_de": "Erlernbarkeit","slug": "f22"},
         {"type": "factor","name": "Enabling online-work","name_de": "Ermöglichung von Online-Arbeit","slug": "f23"},
         {"type": "factor","name": "Support of experience exchange","name_de": "Förderung von Erfahrungsaustausch","slug": "f24"},
         {"type": "factor","name": "Import/Export-functionalities","name_de": "Import-/Export Funktionalitäten","slug": "f25"},
