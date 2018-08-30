@@ -7,6 +7,7 @@ current_dir = os.path.dirname(os.path.realpath(__file__))
 # Use strings (with single or double quotes), and separate each template in a line terminated with a comma. Such as examples below.
 OUTPUT_TEMPLATES = [
     'index.html',
+    'about.html',
     'external-impact.html',
     'innovation.html',
     'coherence.html',

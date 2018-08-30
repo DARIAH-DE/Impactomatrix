@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+from __future__ import print_function
+from builtins import input
 import glob
 import os
 
@@ -27,14 +29,14 @@ def main():
             os.makedirs(OUTPUT_FOLDER)
 
         with open(template_name, 'w') as f:
-            f.write(compile_template(jinja_template).encode('utf-8'))
+            f.write(compile_template(jinja_template))
 
 
 if __name__ == '__main__':
     try:
         main()
-    except Exception, e:
-        print 'ERROR: %s' % str(e)
+    except Exception as e:
+        print('ERROR: {0}'.format(e))
     else:
-        print 'Done!'
-    raw_input('Press any key to continue...')
+        print('Done!')
+    input('Press any key to continue...')
