@@ -1,5 +1,5 @@
 # leaving out the generated static files
-impactomatrix_js/static_impactomatrix/*.html
+impactomatrix_js/static_impactomatrix/*
 
 .DS_Store
 

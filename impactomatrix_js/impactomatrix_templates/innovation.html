@@ -1,5 +1,15 @@
 {% extends "base.html" %}
 
+{% block breadcrumb %}
+<li class="nav_item -level-1">
+  <a class="nav_link" href="index.html">Overview</a>
+</li>
+<li class="nav_item -level-1">
+  <a class="nav_link" href="/"> {{ name }} </a>
+</li>
+{% endblock%}
+
+
 {% block main_content %}
 
 <div id="content" class="primary-area">
@@ -54,4 +64,3 @@
 </div>
 
 {% endblock %}
-

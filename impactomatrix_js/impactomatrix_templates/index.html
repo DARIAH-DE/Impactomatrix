@@ -1,8 +1,14 @@
 {% extends "base.html" %}
 
+{% block breadcrumb %}
+<li class="nav_item -level-1">
+  <a class="nav_link" href="index.html">Overview</a>
+</li>
+{% endblock%}
+
 {% block main_content %}
 
-<div id="content" class="primary-area">
+<div id="content" class="primary-area wrap">
   <aside id="sidebar">
     <h2>About</h2>
     <p>
@@ -16,7 +22,7 @@
       <p>The Impactomatrix is based on an intensive literature review as well as interviews and survey. We compiled a <a href="https://github.com/DARIAH-DE/Impactomatrix/blob/master/Bibliography.md">list of references</a> used in this project.
     </p>
   </aside>
-  
+
   <section id="middle">
     <h2><center>Impact areas</center></h2>
 
@@ -34,7 +40,7 @@
         <li><a href="coherence.html">Coherence</a></li>
         <li><a href="collaboration.html">Collaboration</a></li>
         <li><a href="communication.html">Communication</a></li>
-        <li><a href="transfer-expertise.html">Transfer of Expertise</a></li>
+        <li><a href="transfer-of-expertise.html">Transfer of Expertise</a></li>
         <li><a href="sustainability.html">Sustainability</a></li>
         <li><a href="usage.html">Usage</a></li>
         <li><a href="publications.html">Publications</a></li>
@@ -42,7 +48,7 @@
         <li><a href="reputation.html">Reputation</a></li>
         <li><a href="transparency.html">Transparency</a></li>
         <li><a href="competitiveness.html">Competitiveness</a></li>
-        <li><a href="transfer-knowledge.html">Transfer of Knowledge</a>
+        <li><a href="transfer-of-knowledge.html">Transfer of Knowledge</a>
         </li>
       </ol>
     </div>
@@ -77,14 +83,5 @@
   </aside>
 
 </div>
-
-{% endblock %}
-{% block footer %}
-<h4>About</h4>
-<p>The Impactomatrix was developed within Cluster 1 of <a href="https://de.dariah.eu/">DARIAH-DE</a> and is documented in the following DARIAH Working Paper (in German): Timo Gnadt, Viola E. Schmitt, Juliane Stiller, Klaus Thoden. "Faktoren und Kriterien für den Impact von DH-Tools und Infrastrukturen". DARIAH-DE Working Papers Nr. 21. Göttingen: DARIAH-DE, 2017. Online:
-  <a href="http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2017-1-7">Download PDF</a></p>
-<p>
-You can access the repository on <a href="https://github.com/DARIAH-DE/Impactomatrix">Github</a>.
-</p>
 
 {% endblock %}

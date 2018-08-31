@@ -10,8 +10,11 @@ Die Templates werden mit der Python-Bibliothek _jinja2_ ([PyPi](https://pypi.pyt
 
 Die Templates befinden sich allesamt im Verzeichnis [impactomatrix_templates](impactomatrix_js/impactomatrix_templates). Dabei ist [base.html](impactomatrix_js/impactomatrix_templates/base.html) die Datei, die den grundlegenden Seitenaufbau bereitstellt, die restlichen Dateien referenzieren die `base.html` und modifizieren die dort angegebenen Blöcke `main` und gegebenenfalls `footer`. Der Inhalt der Seiten kann also in diesen Template-Dateien leicht und übersichtlich angepaßt werden.
 
-Die Generierung der Seiten passiert also mit `python compile_templates.py`, und die fertigen Seiten werden im Verzeichnis [static_impactomatrix](impactomatrix_js/static_impactomatrix) abgelegt. In diesem Verzeichnis liegen auch die Stildateien für das Framework ([resources](impactomatrix_js/static_impactomatrix/resources) und [old_resources](impactomatrix_js/static_impactomatrix/old_resources)). Sollten diese modifiziert werden, müssen die auch in den `gh-pages`-Branch kopiert werden.
+Die Generierung der Seiten passiert also mit `python3 compile_templates.py`, und die fertigen Seiten werden im Verzeichnis [static_impactomatrix](impactomatrix_js/static_impactomatrix) abgelegt. In diesem Verzeichnis liegen auch die Stildateien für das Framework ([resources](impactomatrix_js/static_impactomatrix/resources) und [old_resources](impactomatrix_js/static_impactomatrix/old_resources)). Sollten diese modifiziert werden, müssen die auch in den `gh-pages`-Branch kopiert werden.
 
 Ansonsten müssen nur die generierten HTML-Seiten nach `gh-pages` kopiert werden und dann entsprechend gepusht werden, damit die Änderungen online zu sehen sind.
 
- 
+# Anschauen im Anpassungsprozess
+
+Wechseln in den Ordner  [static_impactomatrix](impactomatrix_js/static_impactomatrix) dann Befehl `python3 -m http.server` ausführen und im Browser
+die Seite [localhost:8000](http://localhost:8000) öffnen.
