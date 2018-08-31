@@ -28,8 +28,8 @@ OUTPUT_TEMPLATES = [
     'relevance.html',
     'reputation.html',
     'sustainability.html',
-    'transfer-expertise.html',
-    'transfer-knowledge.html',
+    'transfer-of-expertise.html',
+    'transfer-of-knowledge.html',
     'transparency.html',
     'usage.html'
 ]
@@ -38,4 +38,4 @@ OUTPUT_TEMPLATES = [
 INPUT_FOLDER = current_dir + '/impactomatrix_templates'
 
 # OPTIONAL: Which folder does it dump generated templates? - Defaults to 'html_templates' folder inside this project
-OUTPUT_FOLDER = current_dir + '/static_impactomatrix'
+OUTPUT_FOLDER = '../doc'

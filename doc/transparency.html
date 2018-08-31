@@ -67,9 +67,12 @@
 
 					<div class="nav_menu -main">
 						<ul class="nav_list -level-1">
-							{% block breadcrumb %}
-								content
-							{% endblock %}
+<li class="nav_item -level-1">
+  <a class="nav_link" href="index.html">Overview</a>
+</li>
+<li class="nav_item -level-1">
+  <a class="nav_link" href="/"> Transparency </a>
+</li>
 						</ul>
 				</div>
 
@@ -150,9 +153,50 @@
 
     <main class="main wrap">
 
-  	  {% block main_content %}
-  	    CONTENT
-  	  {% endblock %}
+
+<div id="content" class="primary-area">
+  <aside id="sidebar">
+    <h2>Factors</h2>
+    <ul>
+      <li>Open-source (offer)</li>
+      <li>Anonymity (collaboration &amp; communication)</li>
+      <li>User support</li>
+      <li>Evaluable server logs</li>
+      <li>Providing information and outcomes</li>
+      <li>Dissemination of data</li>
+      <li>Data management</li>
+      <li>Documentation of functionalities</li>
+      <li>Documentation of code</li>
+      <li>User involvement</li>
+      <li>Dissemination of knowledge (subject-specific and DH-broad)</li>
+      <li>Configurable functionalities</li>
+      <li>User surveys &amp; tests</li>
+      <li>Scalability &amp; modularity</li>
+      <li>Software-interfaces</li>
+      <li>Support of open file formats</li>
+      <li>Usage &amp; support of standards</li>
+      <li>Accessibility</li>
+    </ul>
+  </aside>
+  <section id="middle">
+    <h2>Transparency</h2>
+    <p>
+In particular service providers value the areas of education,
+competence transfer, […] and transparency especially high. (Gnadt et al. 2016)
+    </p>
+  </section>
+  <aside id="sidebar">
+    <h2>Criteria</h2>
+    <ul>
+      <li>Documentations (quality &amp; extent)</li>
+      <li>Feedback from surveys &amp; tests (qualitatively)</li>
+      <li>Usage of provided results</li>
+      <li>Use of (used) standards</li>
+      <li>Re-use of code (e.g. github branches)</li>
+      <li>Support of open data formats</li>
+    </ul>
+  </aside>
+</div>
     </main>
   </div>
 

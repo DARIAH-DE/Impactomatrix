@@ -16,8 +16,11 @@ def compile_template(skeleton_path):
         @skeleton_path (str): template basis to be used to render final template. Use relative path, considering from INPUT_FOLDER on.
     '''
     environment = Environment(loader=FileSystemLoader([INPUT_FOLDER]), trim_blocks=True, lstrip_blocks=True)
+    skeleton_name, _ = os.path.splitext(skeleton_path)
+    skeleton_name = skeleton_name.capitalize()
+    name = ' '.join(skeleton_name.split('-'))
     template = environment.get_template(skeleton_path)
-    return template.render()
+    return template.render(name=name)
 
 
 def main():

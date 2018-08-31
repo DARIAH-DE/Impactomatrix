@@ -67,9 +67,12 @@
 
 					<div class="nav_menu -main">
 						<ul class="nav_list -level-1">
-							{% block breadcrumb %}
-								content
-							{% endblock %}
+<li class="nav_item -level-1">
+  <a class="nav_link" href="index.html">Overview</a>
+</li>
+<li class="nav_item -level-1">
+  <a class="nav_link" href="/"> Data security </a>
+</li>
 						</ul>
 				</div>
 
@@ -150,9 +153,38 @@
 
     <main class="main wrap">
 
-  	  {% block main_content %}
-  	    CONTENT
-  	  {% endblock %}
+
+<div id="content" class="primary-area">
+  <aside id="sidebar">
+    <h2>Factors</h2>
+    <ul>
+      <li>Open-source (offer)</li>
+      <li>Anonymity (collaboration &amp; communication)</li>
+      <li>Evaluable server logs</li>
+      <li>Conservation of data</li>
+      <li>Data management</li>
+      <li>Measures for long-term use &amp; storage</li>
+      <li>Performance</li>
+      <li>Stability</li>
+      <li>Software-interfaces</li>
+      <li>Technical support</li>
+    </ul>
+  </aside>
+  <section id="middle">
+    <h2>Data Security/ Safety</h2>
+    <p>
+      Basic requirement for working with digital tools within virtual
+      environments/research infrastructures (Gnadt et al. 2016).
+    </p>
+  </section>
+  <aside id="sidebar">
+    <h2>Criteria</h2>
+    <ul>
+      <li>Use of (used) standards</li>
+      <li>Stability (indicators)</li>
+    </ul>
+  </aside>
+</div>
     </main>
   </div>
 
