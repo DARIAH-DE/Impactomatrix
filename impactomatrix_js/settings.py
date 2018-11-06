@@ -8,6 +8,7 @@ current_dir = os.path.dirname(os.path.realpath(__file__))
 OUTPUT_TEMPLATES = [
     'index.html',
     'about.html',
+    'references.html',
     'external-impact.html',
     'innovation.html',
     'coherence.html',
@@ -38,4 +39,4 @@ OUTPUT_TEMPLATES = [
 INPUT_FOLDER = current_dir + '/impactomatrix_templates'
 
 # OPTIONAL: Which folder does it dump generated templates? - Defaults to 'html_templates' folder inside this project
-OUTPUT_FOLDER = '../doc'
+OUTPUT_FOLDER = '../docs'

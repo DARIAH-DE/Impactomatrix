@@ -1,12 +1,9 @@
 {% extends "base.html" %}
 
+
 {% block breadcrumb %}
-<li class="nav_item -level-1">
-  <a class="nav_link" href="index.html">Overview</a>
-</li>
-<li class="nav_item -level-1">
-  <a class="nav_link" href="/"> {{ name }} </a>
-</li>
+  <a href="index.html" class="nounder">Overview / </a>
+   {{ name }}
 {% endblock%}
 
 
